@@ -42,3 +42,4 @@ jobs:
           publish_dir: ./site
           publish_branch: gh-pages
           allow_empty_commit: true
+          cname: smewin.liudonghe.com
